@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Modern Typing Speed Tester</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1>⌨ Typing Speed Tester</h1>
+    <div class="card">
+      <p id="quote">Click "Start Test" to begin...</p>
+      <textarea id="inputArea" disabled placeholder="Start typing here..."></textarea>
+      <div class="controls">
+        <button id="startBtn">Start Test</button>
+        <button id="restartBtn" disabled>Restart</button>
+      </div>
+      <div class="stats">
+        <p id="timer">⏱ Time Left: 30s</p>
+        <p id="result"></p>
+      </div>
+    </div>
+  </div>
+  <script src="index.js"></script>
+</body>
+</html>
