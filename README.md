@@ -7,6 +7,11 @@ It measures **Words Per Minute (WPM)**, **Accuracy**, and provides real-time fee
 
 ---
 
+## 🌐 Live Demo
+**🔗 [Try it now!](https://typing-project-js.vercel.app/)**
+
+---
+
 ## 🚀 Features
 
 * ✅ Modern UI with glassmorphism & gradient effects
